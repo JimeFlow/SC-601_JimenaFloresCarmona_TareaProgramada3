@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jimen\\Visual Studio\\Community 2022_IIQ_2025 (PA)\\SC-601_JimenaFloresCarmona_TareaProgramada3\\TP3_Juegos_De_Azar\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BB390E-34BE-4EF6-957A-BAB8C51F1D77}|TP3_Juegos_De_Azar.csproj|c:\\users\\jimen\\visual studio\\community 2022_iiq_2025 (pa)\\sc-601_jimenaflorescarmona_tareaprogramada3\\tp3_juegos_de_azar\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BB390E-34BE-4EF6-957A-BAB8C51F1D77}|TP3_Juegos_De_Azar.csproj|solutionrelative:numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BB390E-34BE-4EF6-957A-BAB8C51F1D77}|TP3_Juegos_De_Azar.csproj|c:\\users\\jimen\\visual studio\\community 2022_iiq_2025 (pa)\\sc-601_jimenaflorescarmona_tareaprogramada3\\tp3_juegos_de_azar\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BB390E-34BE-4EF6-957A-BAB8C51F1D77}|TP3_Juegos_De_Azar.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BB390E-34BE-4EF6-957A-BAB8C51F1D77}|TP3_Juegos_De_Azar.csproj|c:\\users\\jimen\\visual studio\\community 2022_iiq_2025 (pa)\\sc-601_jimenaflorescarmona_tareaprogramada3\\tp3_juegos_de_azar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BB390E-34BE-4EF6-957A-BAB8C51F1D77}|TP3_Juegos_De_Azar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BB390E-34BE-4EF6-957A-BAB8C51F1D77}|TP3_Juegos_De_Azar.csproj|c:\\users\\jimen\\visual studio\\community 2022_iiq_2025 (pa)\\sc-601_jimenaflorescarmona_tareaprogramada3\\tp3_juegos_de_azar\\tp3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BB390E-34BE-4EF6-957A-BAB8C51F1D77}|TP3_Juegos_De_Azar.csproj|solutionrelative:tp3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Numero.cs",
+              "DocumentMoniker": "C:\\Users\\jimen\\Visual Studio\\Community 2022_IIQ_2025 (PA)\\SC-601_JimenaFloresCarmona_TareaProgramada3\\TP3_Juegos_De_Azar\\Numero.cs",
+              "RelativeDocumentMoniker": "Numero.cs",
+              "ToolTip": "C:\\Users\\jimen\\Visual Studio\\Community 2022_IIQ_2025 (PA)\\SC-601_JimenaFloresCarmona_TareaProgramada3\\TP3_Juegos_De_Azar\\Numero.cs",
+              "RelativeToolTip": "Numero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:45:19.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\jimen\\Visual Studio\\Community 2022_IIQ_2025 (PA)\\SC-601_JimenaFloresCarmona_TareaProgramada3\\TP3_Juegos_De_Azar\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "C:\\Users\\jimen\\Visual Studio\\Community 2022_IIQ_2025 (PA)\\SC-601_JimenaFloresCarmona_TareaProgramada3\\TP3_Juegos_De_Azar\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:45:12.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jimen\\Visual Studio\\Community 2022_IIQ_2025 (PA)\\SC-601_JimenaFloresCarmona_TareaProgramada3\\TP3_Juegos_De_Azar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jimen\\Visual Studio\\Community 2022_IIQ_2025 (PA)\\SC-601_JimenaFloresCarmona_TareaProgramada3\\TP3_Juegos_De_Azar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:44:55.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TP3Context.cs",
+              "DocumentMoniker": "C:\\Users\\jimen\\Visual Studio\\Community 2022_IIQ_2025 (PA)\\SC-601_JimenaFloresCarmona_TareaProgramada3\\TP3_Juegos_De_Azar\\TP3Context.cs",
+              "RelativeDocumentMoniker": "TP3Context.cs",
+              "ToolTip": "C:\\Users\\jimen\\Visual Studio\\Community 2022_IIQ_2025 (PA)\\SC-601_JimenaFloresCarmona_TareaProgramada3\\TP3_Juegos_De_Azar\\TP3Context.cs",
+              "RelativeToolTip": "TP3Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:44:49.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
